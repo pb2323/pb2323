@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pb2323(Just a lucky username XD)
+- 👋 Hi, I’m @pb2323
 - 👀 I’m interested in developing web applications with optimized code.
 - 🌱 I’m currently exploring Web 3.0.
 - 💞️ I’m looking to collaborate on projects with any kind of stack and DApps particularly
